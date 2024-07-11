@@ -1,11 +1,12 @@
 {
-  "name": "nodefarm",
+  "name": "node-farm",
   "version": "1.0.0",
-  "description": "",
+  "description": "learning node.js",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sarika",
   "license": "ISC"
 }
